@@ -40,3 +40,8 @@ for line in sys.stdin:
 #Driver Program
 print(fib(n))
 
+
+print('Hello')
+
+
+print("How are you")
