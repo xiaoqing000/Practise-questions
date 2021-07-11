@@ -41,9 +41,9 @@ for line in sys.stdin:
 print(fib(n))
 
 
-print('Hello')
+print('Hello World!')
 
 
-print("How are you")
+print("How are you?")
 
 print('I am good,thank you.')
